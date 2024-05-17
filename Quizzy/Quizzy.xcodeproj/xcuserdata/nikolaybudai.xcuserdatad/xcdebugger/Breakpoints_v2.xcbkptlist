@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94317E25-A1F3-47AD-8109-91FD5D899A15"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28F6A88F-BEFA-4616-AB37-FFD3222FCDE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzy/View/CategoryChoiceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28F6A88F-BEFA-4616-AB37-FFD3222FCDE5 - 4f0206a7927d4141"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzy.CategoryChoiceViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Quizzy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolaybudai/Desktop/IOS/Quizzy/Quizzy/View/CategoryChoiceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "28F6A88F-BEFA-4616-AB37-FFD3222FCDE5 - f0ac3c874e2d7d41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Quizzy.CategoryChoiceViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Quizzy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolaybudai/Desktop/IOS/Quizzy/Quizzy/View/CategoryChoiceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98DC2F33-66AB-4410-8B9E-77026C088BB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzy/View/QuestionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "bindCorrectAnswerIndex(selectedIndex:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
